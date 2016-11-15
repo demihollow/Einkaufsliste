@@ -1,6 +1,6 @@
 # Lebenslauf
 
-![Text](user_205_profile.jpg"John Doe")
+![Text](user_205_profile.jpg "John Doe")
 
 ## Persoenliche Daten
 **Name**
